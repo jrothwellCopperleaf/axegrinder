@@ -36,6 +36,6 @@
     "commander": "^2.11.0",
     "csv": "^1.1.0",
     "nightmare": "^2.10.0",
-    "simplecrawler": "^1.0.3"
+    "simplecrawler": "^1.1.6"
   }
 }
